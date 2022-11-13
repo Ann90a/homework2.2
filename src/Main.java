@@ -18,7 +18,16 @@ public class Main {
         }
 
 
-    }
+        //задание 2
 
+        int a = 2;
+
+        for (int i1 = 1; i1 <= 10; i1++) {
+            int total = i1 * a;
+            System.out.println("2 * " + i1 + " = " + total);
+        }
+
+
+    }
 
 }
